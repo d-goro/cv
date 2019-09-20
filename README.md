@@ -35,13 +35,13 @@ and high availability across Microsoft SQLServer databases.
 ___Responsibilities___: Working as a backend developer on
 Spotlight Cloud product. 
 
+Responsible for product security implementation including API protection with authentication and authorization mechanism, automatic (as part of CI/CD) vulnerability test with Veracode and malware protection.
+
 Was responsible for project
 transfer to .NET Core.
 
-Refactored and improved team CI/CD system using Jenkins,
-PowerShell and Apache Ant which led to significant increase of Azure deployment
-speed and removal redundant code. 
-
+Created common CI/CD system for team’s microservices using Jenkins and PowerShell, which led to a significant increase of Azure deployment speed and removal redundant code. 
+ 
 Implemented from scratch quality test system using Python,
 Azure and PostgreSQL and so decreased test time from whole day to 30 min.
 
