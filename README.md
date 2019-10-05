@@ -66,18 +66,12 @@ general commercial printing, direct mail, photo, publications, labels, flexible
 packaging and specialty printing.
 
 
-___Responsibilities___: Implemented DFE-Press
-communication, property synchronization, substrate handling for the new product.
+___Responsibilities___: 
+*	Implemented DFE-Press communication, property synchronization, substrate handling for the new product. 
+*	Created internal Garbage Collector for DFE, which led to better system stability. Contributed in creating test driven development system, which led to significant decrease of customer escalations. 
+*	Improved user’s ability, usefulness and speed to preview large jobs by creating new Preview system based on Deep Zoom technology. 
+*	In my free time developed plug-in for Visual Studio which used by my team and saves huge amount of time for developers.
 
-Created internal Garbage Collector for DFE which led to better
-system stability. Contributed in creating test driven development system which
-led to significant decrease of customer escalations. 
-
-Improved user’s ability, usefulness and speed to preview
-large jobs by creating new Preview system based on Deep Zoom technology. 
-
-In my free time developed plug-in for Visual Studio which
-used by my team and saves huge amount of time for developers.
 
  
 ###
