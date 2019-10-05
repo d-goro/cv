@@ -11,12 +11,23 @@ Phone: 052-353-6062
 
 ### Profile
 
-Senior Software Engineer with
-strong customer focus, proactive, agile, high ability to use new technologies
-through rapid self-learning, good team player.
+Doer, an autodidact, and problem-solver with strong customer focus, proactive, agile, good team player.
 
 
-Specialties: .NET, C#, C++, Python, Azure, Cloud, Backend programming CI/CD, Jenkins.
+### Technical Skills
+
+**Proficient:** NET Framework, C#, C++, Python, LINQ, Azure Cloud, CI/CD, Jenkins, PowerShell, Bash, Agile, TDD, Task-oriented programming, Multithreading, Redis, SQL, PostgreSQL, MongoDB
+
+**Beginner / learning:** Machine Learning, Java, Cryptography 
+
+
+**IDE**: MS Visual Studio 2019 and earlier versions, VSCode,
+PyCharm, Anaconda
+
+
+**Design Skills:**  Object-Oriented
+Analyzing and Design, Design
+Patterns, UML
 
 
 #
@@ -186,28 +197,8 @@ ___Internship___: GUI
 developments, COM development, re-design of existent modules for COM
 technology.
 
-##  
-
-### Technical Skills
-
-**Proficient:** C#, C++, Python, .NET Framework, Azure, LINQ,
-STL, Agile, Test Driven Development, reflection, parallel programming, multithreading
-and synchronization, PowerShell, Bash, Redis, PostgreSQL, MongoDB
-
-**Beginner / learning:** Java, WPF, Cryptography 
 
 
-**IDE**: MS Visual Studio 2019 and earlier versions, VSCode,
-PyCharm, Anaconda
-
-
-**Design Skills:**  Object-Oriented
-Analyzing and Design, Design
-Patterns, UML
-
-
-##
- 
 
 ### Education/Training
 
