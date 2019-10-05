@@ -16,7 +16,7 @@ Doer, an autodidact, and problem-solver with strong customer focus, proactive, a
 
 ### Technical Skills
 
-**Proficient:** NET Framework, C#, C++, Python, LINQ, Azure Cloud, CI/CD, Jenkins, PowerShell, Bash, Agile, TDD, Task-oriented programming, Multithreading, Redis, SQL, PostgreSQL, MongoDB
+**Proficient:** NET Framework, C#, C++, Python, LINQ, Azure Cloud, CI/CD, Jenkins, PowerShell, Bash, Agile, TDD, Task-oriented programming, Multithreading, Redis, SQL, PostgreSQL, MongoDB, Cosmos DB
 
 **Beginner / learning:** Machine Learning, Java, Cryptography 
 
