@@ -40,12 +40,13 @@ present)
 Spotlight Cloud is a SaaS product, provides 24/7 performance monitoring, diagnostics, and tuning across Microsoft SQL Server databases on Microsoft Azure platform
 
 
-___Responsibilities___: Working as a backend developer on Spotlight Cloud product. 
-•	Responsible for implementing product security policies including API protection with authentication and authorization mechanism, automatic vulnerability test with Veracode and malware protection.
-•	Successfully transferred the project to .NET Core.
-•	Created a common CI/CD system for the team’s microservices using Jenkins, Ant and PowerShell, which led to a significant increase in Azure deployment speed and removal redundant code. 
-•	Completely refactored legacy quality test, using Python, Azure, and PostgreSQL and so decreased runtime from the whole day to 30 min.
-•	Implemented API Contract and Integration tests using Postman and Jenkins.
+___Responsibilities___: 
+Working as a backend developer on Spotlight Cloud product. 
+*	Responsible for implementing product security policies including API protection with authentication and authorization mechanism, automatic vulnerability test with Veracode and malware protection.
+*	Successfully transferred the project to .NET Core.
+*	Created a common CI/CD system for the team’s microservices using Jenkins, Ant and PowerShell, which led to a significant increase in Azure deployment speed and removal redundant code. 
+*	Completely refactored legacy quality test, using Python, Azure, and PostgreSQL and so decreased runtime from the whole day to 30 min.
+*	Implemented API Contract and Integration tests using Postman and Jenkins.
 
 
  
