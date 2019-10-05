@@ -37,23 +37,15 @@ Patterns, UML
 **Seniour Backend Software Engineer**, [_Quest Software_](https://www.quest.com/)(05.2018 –
 present)
 
-Delivered as a Software as a Service (SaaS) offering,
-Spotlight Cloud provides 24/7 performance monitoring, instant diagnostics, and
-powerful tuning with Azure Cloud environment to ensure consistent performance
-and high availability across Microsoft SQLServer databases.
+Spotlight Cloud is a SaaS product, provides 24/7 performance monitoring, diagnostics, and tuning across Microsoft SQL Server databases on Microsoft Azure platform
 
 
-___Responsibilities___: Working as a backend developer on
-Spotlight Cloud product. 
-
-Responsible for implementing product security policies including API protection with authentication and authorization mechanism, automatic vulnerability test with Veracode and malware protection.
-
-Successfully transferred the project to .NET Core.
-
-Created common CI/CD system for the team’s microservices using Jenkins and PowerShell, which led to a significant increase in Azure deployment speed and removal redundant code. 
-
-Completely refactored legacy quality test, using Python, Azure, and PostgreSQL and so decreased runtime from the whole day to 30 min.
-Implemented API Contract and Integration tests using Postman and Jenkins.
+___Responsibilities___: Working as a backend developer on Spotlight Cloud product. 
+•	Responsible for implementing product security policies including API protection with authentication and authorization mechanism, automatic vulnerability test with Veracode and malware protection.
+•	Successfully transferred the project to .NET Core.
+•	Created a common CI/CD system for the team’s microservices using Jenkins, Ant and PowerShell, which led to a significant increase in Azure deployment speed and removal redundant code. 
+•	Completely refactored legacy quality test, using Python, Azure, and PostgreSQL and so decreased runtime from the whole day to 30 min.
+•	Implemented API Contract and Integration tests using Postman and Jenkins.
 
 
  
